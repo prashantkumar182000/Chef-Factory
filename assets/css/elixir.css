@@ -306,10 +306,10 @@ a:hover {
 .logo_elixir {
     display: inline-block;
     float: left;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     background: url("../images/logo_chef.png") no-repeat;
-    background-size: 100px;
+    background-size: 80px;
     -webkit-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
